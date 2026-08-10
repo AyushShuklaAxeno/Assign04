@@ -95,7 +95,6 @@ ul {
   text-decoration: none;
   cursor: pointer;
   border: 1px solid transparent;
-  transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1), background 0.2s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.2s cubic-bezier(0.4, 0, 0.2, 1), color 0.2s cubic-bezier(0.4, 0, 0.2, 1);
   white-space: nowrap;
 }
 .btn:active {
@@ -112,7 +111,7 @@ ul {
   border-color: #2ecc71;
 }
 .btn--primary:hover {
-  background: rgb(15.0952156863%, 66.944%, 37.0817254902%);
+  background: rgb(43, 185, 104);
 }
 
 .btn--outline {
