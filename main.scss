@@ -1,0 +1,52 @@
+//Colors
+$color-green:  #2ecc71;
+$color-blue:   #2f6fed;
+$color-yellow: #f5c518;
+$color-red:    #e0393e;
+
+// Surfaces
+$bg-page:      #0a0d16;
+$bg-section:   #0d1119;
+$bg-card:      #131826;
+$bg-card-alt:  #171d2d;
+$bg-light:     #ffffff;
+
+// Text
+$text-primary:   #ffffff;
+$text-muted:     #9aa1b4;
+$text-muted-dk:  #6b7280;
+$text-on-light:  #1a1d29;
+$text-on-light-muted: #6b7280;
+
+// Accent 
+$accent: $color-green;
+
+// Type
+$font-display: 'Century Gothic', 'CenturyGothic', 'AppleGothic', sans-serif;
+$font-body: 'Century Gothic', 'CenturyGothic', 'AppleGothic', sans-serif;
+
+// Spacing 
+$space-1: 0.4rem;
+$space-2: 0.8rem;
+$space-3: 1.6rem;
+$space-4: 2.4rem;
+$space-5: 3.2rem;
+$space-6: 4.8rem;
+$space-7: 6.4rem;
+$space-8: 9.6rem;
+
+// Layout
+$container-max: 1140px;
+$radius-sm: 8px;
+$radius-md: 16px;
+$radius-lg: 32px;
+$radius-pill: 999px;
+
+// Breakpoints
+$bp-tablet: 900px;
+$bp-mobile: 560px;
+
+// Transitions
+$ease: cubic-bezier(0.4, 0, 0.2, 1);
+$transition-fast: 0.2s $ease;
+$transition-med: 0.4s $ease;
